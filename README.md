@@ -4,9 +4,9 @@
 &nbsp;
   
 ## 💡 About
-<a href="https://github.com/510x">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=510x&theme=dark&show_icons=true)">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=510x&theme=dark">
+<a href="https://github.com/517c">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=517c&theme=dark&show_icons=true)">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=517c&theme=dark">
 </a>
 
 
